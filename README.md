@@ -1,2 +1,0 @@
-# regusxyz.github.io
-hmm
