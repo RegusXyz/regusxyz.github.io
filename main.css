@@ -1,7 +1,117 @@
 body
 {
+    /* Background pattern from Toptal Subtle Patterns */
+    background-image: url("images/tlo.png");
     margin: 0;
-    background-color: #333;
+    font-family: 'Ubuntu', sans-serif;
     color: #fff;
 }
 
+header
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Alata', sans-serif;
+    color: #fff;
+}
+
+h1.header
+{
+    font-size: 56px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+main
+{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#kafelek0
+{
+    background-color: #1332d3;
+    width: 500px;
+    height: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 25px;
+
+}
+
+
+#kafelek1
+{
+    background-color: #e33223;
+    width: 500px;
+    height: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 25px;
+}
+
+#kafelek2
+{
+    background-color: #13cf6a;
+    width: 500px;
+    height: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 25px;
+
+}
+
+#kafelek3
+{
+    background-color: #721db8;
+    width: 500px;
+    height: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 25px;
+}
+
+#kafelek4
+{
+    background-color: #e3a322;
+    width: 500px;
+    height: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 25px;
+
+}
+
+#kafelek5
+{
+    background-color: #7ab8cf;
+    width: 500px;
+    height: 175px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 25px;
+}
+
+footer
+{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+span#Copyright
+{
+    font-size: 28px;
+    color: #ddd;
+}
