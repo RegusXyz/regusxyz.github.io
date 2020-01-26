@@ -1,0 +1,26 @@
+
+.icon-attention:before { content: '\e800'; } /* '' */
+.icon-lock:before { content: '\e801'; } /* '' */
+.icon-ok:before { content: '\e802'; } /* '' */
+.icon-cancel:before { content: '\e803'; } /* '' */
+.icon-home:before { content: '\e804'; } /* '' */
+.icon-download:before { content: '\e805'; } /* '' */
+.icon-upload:before { content: '\e806'; } /* '' */
+.icon-folder:before { content: '\e807'; } /* '' */
+.icon-cd:before { content: '\e808'; } /* '' */
+.icon-na:before { content: '\e809'; } /* '' */
+.icon-terminal:before { content: '\e80a'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-gamepad:before { content: '\f11b'; } /* '' */
+.icon-help:before { content: '\f128'; } /* '' */
+.icon-info:before { content: '\f129'; } /* '' */
+.icon-lock-open-alt:before { content: '\f13e'; } /* '' */
+.icon-thumbs-up-alt:before { content: '\f164'; } /* '' */
+.icon-thumbs-down-alt:before { content: '\f165'; } /* '' */
+.icon-apple:before { content: '\f179'; } /* '' */
+.icon-windows:before { content: '\f17a'; } /* '' */
+.icon-android:before { content: '\f17b'; } /* '' */
+.icon-linux:before { content: '\f17c'; } /* '' */
+.icon-steam:before { content: '\f1b6'; } /* '' */
+.icon-git:before { content: '\f1d3'; } /* '' */
+.icon-cc-paypal:before { content: '\f1f4'; } /* '' */
