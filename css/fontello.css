@@ -65,7 +65,7 @@
 .icon-folder:before { content: '\e807'; } /* '' */
 .icon-cd:before { content: '\e808'; } /* '' */
 .icon-na:before { content: '\e809'; } /* '' */
-.icon-terminal:before { content: '\e80a'; } /* '' */
+.icon-terminal:before { content: '\e80a'; font-size: 68px; } /* '' */
 .icon-facebook:before { content: '\f09a'; } /* '' */
 .icon-gamepad:before { content: '\f11b'; } /* '' */
 .icon-help:before { content: '\f128'; } /* '' */

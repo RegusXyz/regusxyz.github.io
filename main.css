@@ -7,23 +7,7 @@ body
     color: #fff;
 }
 
-a
-{
-    text-decoration: none;
-    color: #fff;
-}
 
-a:visited
-{
-    text-decoration: none;
-    color: #fff;
-}
-
-a:hover
-{
-    text-decoration: none;
-    color: #fff;
-}
 
 header
 {
@@ -48,110 +32,97 @@ main
 {
     margin-left: auto;
     margin-right: auto;
-
+    font-family: 'Roboto Mono', monospace;
 }
 
 #kafelek0
 {
     background-color: #1332d3;
-    width: 450px;
+    width: 460px;
     height: 125px;
     margin-left: auto;
     margin-right: auto;
     display: block;
     border-radius: 25px;
-    padding: 25px;
+    padding: 20px;
 }
 
+#kafelek0:hover{   background-color: #0221c2;  }
 .name
 {
-    font-size: 32px;
+    width: 340px;
     float: left;
-    font-family: 'Roboto Mono', monospace;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-right: 30px;
+    font-size: 18px;
 }
 
 .icon
 {
-    font-size: 76px;
-    margin-bottom: 15px;
-}
-
-.opis
-{
-    font-size: 20px;
+    float: left;
+    font-size: 80px;
 }
 
 #kafelek1
 {
     background-color: #e33223;
-    width: 500px;
-    height: 175px;
+    width: 460px;
+    height: 125px;
     margin-left: auto;
     margin-right: auto;
     display: block;
     border-radius: 25px;
+    padding: 20px;
 }
+
+#kafelek1:hover{   background-color: #d22112;  }
 
 #kafelek2
 {
     background-color: #13cf6a;
-    width: 500px;
-    height: 175px;
+    width: 460px;
+    height: 125px;
     margin-left: auto;
     margin-right: auto;
     display: block;
     border-radius: 25px;
-
+    padding: 20px;
 }
+
+#kafelek2:hover{   background-color: #02be59;  }
 
 #kafelek3
 {
     background-color: #721db8;
-    width: 500px;
-    height: 175px;
+    width: 460px;
+    height: 125px;
     margin-left: auto;
     margin-right: auto;
     display: block;
     border-radius: 25px;
+    padding: 20px;
 }
 
-#kafelek4
-{
-    background-color: #e3a322;
-    width: 500px;
-    height: 175px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    border-radius: 25px;
+#kafelek3:hover{   background-color: #610ca7;  }
 
-}
-
-#kafelek5
+a.tilelink
 {
-    background-color: #7ab8cf;
-    width: 500px;
-    height: 175px;
-    margin-left: auto;
-    margin-right: auto;
+    color: #fff;
+    text-decoration: none;
     display: block;
+    width: 500px;
+    height: 165px;
     border-radius: 25px;
 }
 
 footer
 {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    width: 90%;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center; 
 }
 
-span#Copyright
+#Copyright
 {
     font-size: 28px;
     color: #ddd;
