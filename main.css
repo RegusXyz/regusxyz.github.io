@@ -7,6 +7,23 @@ body
     color: #fff;
 }
 
+a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:visited
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: #fff;
+}
 
 
 header
@@ -102,16 +119,6 @@ main
 }
 
 #kafelek3:hover{   background-color: #610ca7;  }
-
-a.tilelink
-{
-    color: #fff;
-    text-decoration: none;
-    display: block;
-    width: 500px;
-    height: 165px;
-    border-radius: 25px;
-}
 
 footer
 {
