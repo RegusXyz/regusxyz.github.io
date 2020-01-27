@@ -25,6 +25,11 @@ a:hover
     color: #fff;
 }
 
+a:-webkit-any-link
+{
+    text-decoration: none;
+    color: #fff;
+}
 
 header
 {
