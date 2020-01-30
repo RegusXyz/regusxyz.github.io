@@ -53,7 +53,7 @@ main
 
 #kafelek0
 {
-    background-color: #1332d3;
+    background-color: #e33838;
     width: 460px;
     height: 125px;
     margin-left: auto;
@@ -63,7 +63,7 @@ main
     padding: 20px;
 }
 
-#kafelek0:hover{   background-color: #0221c2;  }
+#kafelek0:hover{   background-color: #d22727;  }
 .name
 {
     width: 340px;
@@ -79,7 +79,7 @@ main
 
 #kafelek1
 {
-    background-color: #e33223;
+    background-color: #3214ea;
     width: 460px;
     height: 125px;
     margin-left: auto;
@@ -89,7 +89,7 @@ main
     padding: 20px;
 }
 
-#kafelek1:hover{   background-color: #d22112;  }
+#kafelek1:hover{   background-color: #2104d9;  }
 
 #kafelek2
 {
